@@ -1,5 +1,5 @@
 import subprocess, re
-exe = "yourPathToTheExecutableHere" # YOUR PATH HERE
+exe = "./a.out"
 args = ""
 
 results = {}
